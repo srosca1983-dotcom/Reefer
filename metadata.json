@@ -1,0 +1,6 @@
+{
+  "name": "George II Reefer Log Builder",
+  "description": "Reconcile container cargo manifests and assets telemetry sequentially into a beautifully formatted A4-printable 6-day Reefer safety workbook, with blank watch log generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
